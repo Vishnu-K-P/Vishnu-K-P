@@ -2,10 +2,10 @@
 <h3 align="center">A passionate MERN developer from Kerala,India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align:right alt:"coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjck9e2gYf9AhVT6HMBHROEDHMQMygCegUIARCSAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjck9e2gYf9AhVT6HMBHROEDHMQMygCegUIARCSAg">
 - 📫 How to reach me **kpvishnu32@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:+91 9747109465</h3>
 <p align="left">
 </p>
 
